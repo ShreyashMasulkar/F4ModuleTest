@@ -15,7 +15,7 @@ function GenreFilter({ onGenreChange }) {
   };
   return (
     <div className="flex justify-center rounded-3xl bg-gray-200">
-      <aside className="bg-white rounded-lg p-5">
+      <aside className="bg-lightgray rounded-lg p-5">
         <h2 className="mb-4 text-lg font-semibold">Filter by Genre</h2>
         <button
           className="m-1 rounded bg-gray-300 px-4 py-2 font-bold text-gray-800 hover:bg-gray-400"
