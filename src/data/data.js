@@ -4,11 +4,7 @@ const movies = [
   { title: "The Dark Knight", genre: "Action", year: 2008 },
   { title: "12 Angry Men", genre: "Drama", year: 1957 },
   { title: "Schindler's List", genre: "Drama", year: 1993 },
-  {
-    title: "The Lord of the Rings: The Return of the King",
-    genre: "Fantasy",
-    year: 2003,
-  },
+  {title: "The Lord of the Rings: The Return of the King", genre: "Fantasy", year: 2003,},
   { title: "The Good, the Bad and the Ugly", genre: "Western", year: 1966 },
   { title: "Forrest Gump", genre: "Drama", year: 1994 },
   { title: "Inception", genre: "Science Fiction", year: 2010 },
