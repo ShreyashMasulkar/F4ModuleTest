@@ -8,9 +8,9 @@ function MoviesList({ movies }) {
         <table className="w-full border-collapse border border-gray-300">
           <thead>
             <tr className="bg-gray-600">
-              <th className="bg-gray px-4 py-2 text-left">Title</th>
-              <th className="bg-gray px-4 py-2 text-left">Genre</th>
-              <th className="bg-gray px-4 py-2 text-left">Year</th>
+              <th className="bg-light gray px-4 py-2 text-left">Title</th>
+              <th className="bg-light gray px-4 py-2 text-left">Genre</th>
+              <th className="bg-light gray px-4 py-2 text-left">Year</th>
             </tr>
           </thead>
           <tbody>
